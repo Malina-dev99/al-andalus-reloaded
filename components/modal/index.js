@@ -46,8 +46,6 @@ export function Modal() {
             Creado por Marina Prieto Oltra 🚀
             <br />
           </p>
-          <br />
-          </p>
         </div>
         <Button
           className={cn(s.cta)}
