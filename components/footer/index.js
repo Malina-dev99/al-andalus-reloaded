@@ -11,18 +11,18 @@ export const Footer = () => {
     <footer className={cn('theme-light', s.footer)}>
       <div className={cn(s.top, 'layout-grid hide-on-mobile')}>
         <p className={cn(s['first-line'], 'h1')}>
-          Lenis is <br />
-          <span className="contrast">Open source</span>
+          Al Andalus <br />
+          <span className="contrast">Reloaded</span>
         </p>
         {/* <div className={s['shameless-plug']}>
           <p className="h4">Studio Freight</p>
           <p className="p-s">
-            An independent creative <br /> studio built on principle
+            Plataforma <br /> interactiva
           </p>
         </div> */}
         <p className={cn(s['last-line'], 'h1')}>
-          & open to <span className="hide-on-desktop">&nbsp;</span> features{' '}
-          <br /> and sponsors
+          marina <span className="hide-on-desktop">nbsp;</span> prieto{' '}
+          <br /> oltra
         </p>
         <Button
           className={s.cta}
