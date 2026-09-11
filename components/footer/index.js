@@ -41,7 +41,7 @@ export const Footer = () => {
           </p>
         </div> */}
         <p className={cn(s['first-line'], 'h1')}>
-          Lenis is <br />
+          Built to be <br />
           <span className="contrast">Open source</span>
           <br /> & open to <br /> features and sponsors
         </p>
